@@ -1,0 +1,19 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img0001-modified-modified.png",
+      "default_title": "CYBER HYGIENE TOOL"
+   },
+   "description": "A new way to stay secure",
+   "icons": {
+      "128": "img0001-modified-modified.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgcIiludRLAGxZzpazkQ0uQNBbSqYkGYeukYxwjOYf53Q4TEDwnQNL11yWPS4Sx0zxefHtBAjU3VVNU100TjdivKeMvtYXM6Pjrq76t8isXf58xepdC/lojo335eyKQ1sw9/V6fN5RP2DL89AQFCm+eSDxnG1aBErE91CG4EKuR9EhCXJ8F0RNuAypRri2D4F4cyL02W4fMYohc4dAYV44fKgY66aaPG44APV9yBKg5OXMlaQc1HtPAzjZZpaN7/OGWkULZLBKboUrX2iQKW6eJ32oXNzNeSYJtzsUU7wcqgXHiAv7CkU0b3Z02+2dTjNgbUqnzJRM2tVhqTcBszISQIDAQAB",
+   "manifest_version": 2,
+   "name": "CYBER HYGIENE TOOL",
+   "permissions": [ "tabs", "*://*/*", "webRequest", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.9"
+}
