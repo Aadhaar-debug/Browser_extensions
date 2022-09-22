@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "App de control parental que impide el acceso a páginas porno. Utiliza un escáner semántico que bloquea los contenidos para adultos."
+   },
+   "name": {
+      "message": "Control Parental: Anti Porno"
+   }
+}

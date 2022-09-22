@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Nægter adgang til pornosider. Det bruger en semantisk parser, der scanner og blokerer alle slags voksent indhold."
+   },
+   "name": {
+      "message": "Forældre Kontrol: Porno Blokker"
+   }
+}

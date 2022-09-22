@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Nega l'accesso a siti porno. Esso utilizza un parser semantica che analizza e blocca tutti i tipi di contenuti per adulti."
+   },
+   "name": {
+      "message": "Controllo Parentale: Blocca Porno"
+   }
+}

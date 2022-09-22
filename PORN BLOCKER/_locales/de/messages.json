@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Verweigert den Zugriff auf Porno-Seiten. Es verwendet eine semantische Parser, blockiert alle Arten von Content für Erwachsene."
+   },
+   "name": {
+      "message": "Elterliche Kontrolle: Porno-Blocker"
+   }
+}

@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Nega o acesso a sites pornográficos. Ele usa um analisador semântico que verifica e bloqueia todo o tipo de conteúdo adulto."
+   },
+   "name": {
+      "message": "Controle dos pais: Bloqueia pornô"
+   }
+}

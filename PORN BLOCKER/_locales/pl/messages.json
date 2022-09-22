@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Blokuje dostęp do stron pornograficznych. Wykorzystuje ona semantyczny parser który skanuje i blokuje wszelkiego rodzaju treści dla dorosłych."
+   },
+   "name": {
+      "message": "Kontrola Rodzicielska: Bloker Porno"
+   }
+}

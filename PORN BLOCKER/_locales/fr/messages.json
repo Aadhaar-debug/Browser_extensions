@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Refuse l'accès à des sites pornographiques. Il utilise un analyseur sémantique qui analyse et bloque tous les types de contenus pour adultes."
+   },
+   "name": {
+      "message": "Contrôle Parental: Bloqueur Porno"
+   }
+}

@@ -1,0 +1,22 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "content_scripts": [ {
+      "js": [ "js/pornblock.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "48": "icons/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqYF7TQvb8+bN4mtVsrZpAJcQRyssw5dm1ZTGTlwD1J3NMDzquZJ0h0dS9/ifv4HIyi1EaMoFUA0ynQmSsRUW4jaH31oMlPFApxTehkHWNvE3rayNdRFJ/C4O9m2sYcxevGWLUNs/OPOOjsxuvUHJieV+whrgFZ7PBmj/mTgEVPyNH4Qm/Zx772pcbtFwufycw2qIPyWlrVC63WPj5eBA4H7C/8KdZfPTCBv9u47mXLxaq6HvBNlauq2TfuNLXKXtbDbVlkyvzdpstFjLC8OaEOFgG2U6QX130tM2GACiU9V9q5l9I9u3PCEhXaF2lTCTfrrLxPenSzEQaYLGbtAJTQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "permissions": [ "storage", "*://*/*" ],
+   "short_name": "ParentalControlPornBlocker",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5.2"
+}

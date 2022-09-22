@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Parental control app that denies access to porn sites. It uses a semantic parser that scans and blocks all kind of adult content."
+   },
+   "name": {
+      "message": "Parental Control: Porn Blocker"
+   }
+}
