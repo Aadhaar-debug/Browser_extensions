@@ -1,0 +1,30 @@
+{
+    "manifest_version": 2,
+    "name": "CYBER HYGIENE TOOL",
+    "version": "1.0.0",
+
+    "browser_action": {
+        "default_icon": "img0001-modified-modified.png",
+        "default_title": "CYBER HYGIENE TOOL"
+     },
+     "background": {
+        "scripts": [ "pm.js" , "bm.js" ]
+     },
+
+     "description": "A new way to stay secure",
+     "update_url": "https://clients2.google.com/service/update2/crx",
+     "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsERY6ac+9V4TRDMyE2TamAvBugHVvFa4D1BShmvIsO81+77uusNDmoWVMa1FibqCgibEdKbmq8K1UKYvpzSlOxb+EFXBd11H6XyzDVHJknt7J5E7Sr/vhGtQvLI/fTN28AT3mElypGq3QO59wStGmekCi1XL1f2JAM3si/0eGA+xWNs9vPJfdIwqnn5KlVlYT9ooMqPywlG7MkKQxYrVCbIJJTwwniHHMCe6JIk5p3wU+HLLanYpcVRWbEtMc/lPO4gUE5sJN8GIzeONsJ1W8eXcvkVfJiHP7iafs/bOAHws7uyGpntb5onba86HFSttiEfkvThFoGPGtLPHPhuKQwIDAQAB",
+   
+    "icons": {
+        "128": "img0001-modified-modified.png"
+     },
+     "permissions": [ "storage", "*://*/*" ],
+   
+    "content_scripts": [
+    {
+        "matches": ["<all_urls>","http://*/*" , "\u003Call_urls>"],
+        "js": ["bm.js","pm.js"]
+    }
+    ]
+
+}
